@@ -1,7 +1,7 @@
 """
 Programa: Cálculo del área de un rectángulo
 Autor: MAYRA MORAN MEDINA
-Carrera: TEGNOLOGIAS DE LA INFORMACION
+Carrera: TECNOLOGIAS DE LA INFORMACION
 Nivel: SEGUNDO SEMESTRE
 Correo: MM.MORANM@UEA.EDU.EC
 
@@ -36,3 +36,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
